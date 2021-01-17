@@ -3,3 +3,4 @@ class Solution:
         result = []
         total = 0
         for num in nums:
+            total += num
