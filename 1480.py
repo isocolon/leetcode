@@ -4,3 +4,4 @@ class Solution:
         total = 0
         for num in nums:
             total += num
+            result.append(total)
